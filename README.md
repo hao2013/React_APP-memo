@@ -1,5 +1,11 @@
-## npm run start
+## 実行コマンド
 
-## npm run server
+- `npm run start`
+- `npm run build`
+- `npm run server`
 
-参考布鲁斯前端
+## point
+
+`JSON Server`を使って、仮のAPIを作成しました。
+
+## 参考布鲁斯前端
